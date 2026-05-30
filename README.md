@@ -1,5 +1,3 @@
-# Myy_portfolioooo
-Selamat datang di wibsite Portfolio saya
 [index1.html](https://github.com/user-attachments/files/28419808/index1.html)
 <!DOCTYPE html>
 <html lang="id">
@@ -807,4 +805,7 @@ Selamat datang di wibsite Portfolio saya
     </script>
 </body>
 </html>
-
+<img width="960" height="1280" alt="WhatsApp Image 2026-05-30 at 15 04 46" src="https://github.com/user-attachments/assets/9d103589-185c-4d24-a89d-8f5dbd791eab" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-05-30 at 15 08 44" src="https://github.com/user-attachments/assets/3a944faf-0f23-4e99-9485-c602275252cd" />
+<img width="1280" height="571" alt="WhatsApp Image 2026-05-30 at 15 27 43" src="https://github.com/user-attachments/assets/0a7f0067-dd1c-4e03-8d43-7c8eb0402d28" />
+<img width="1280" height="571" alt="WhatsApp Image 2026-05-30 at 15 36 04" src="https://github.com/user-attachments/assets/6ca64db7-93fc-464b-bfb3-c2a0f8df678c" />
